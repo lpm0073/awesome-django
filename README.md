@@ -213,6 +213,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [Reactor](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
 - [Sockpuppet](https://sockpuppet.argpar.se/) - Build reactive applications with the Django tooling you already know and love.
 - [Unicorn](https://www.django-unicorn.com/) - A reactive component framework that progressively enhances a normal Django view, makes AJAX calls in the background, and dynamically updates the DOM.
+- [Smarter](https://github.com/smarter-sh/smarter) - Declarative, Kubernetes-inspired framework for authoring and managing AI resources.
 
 ### General
 - [django-data-browser](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
